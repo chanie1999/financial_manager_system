@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87850608170",
+    "project_id": "financialmanagersystem-21c64",
+    "storage_bucket": "financialmanagersystem-21c64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87850608170:android:f66012464f1661e6180553",
+        "android_client_info": {
+          "package_name": "com.example.financial_manager_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87850608170-97o67dopviqutsq7atlf4u5sk58v0ts2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJUUvyyYmi-rYS_r1OyGBymrfT_bNQMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87850608170-97o67dopviqutsq7atlf4u5sk58v0ts2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
